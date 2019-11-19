@@ -1,6 +1,9 @@
 # instagram_scraper
 <img src="https://raw.githubusercontent.com/realsirjoe/designs/master/flat_illustration.png" align="right">
-This is a minimalistic Instagram scraper written in Python.
+This is a minimalistic Instagram scraper written in Python by Sergio Wagenleitner.
+
+Tests examples being extended by IAD Zurich University of the Arts.
+
 <br /><br />
 It can fetch media, accounts, videos, comments etc.
 `Comment` and `Like` actions are also supported.
